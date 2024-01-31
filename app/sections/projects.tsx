@@ -16,7 +16,7 @@ export default function Projects() {
                 <div className="flex flex-col items-center space-y-4 md:flex-row md:justify-center md:flex-wrap space-x-0 md:space-x-12 m-4 md:space-y-0">
                     <div className="animate-border inline-block rounded-md bg-white bg-gradient-to-r from-red-500 via-purple-500 to-blue-500 bg-[length:400%_400%] p-1 w-64 flex flex-col items-center">
                         <h2>Post Website</h2>
-                        <div className="h-50 w-50">
+                        <div className="h-50 w-50 mb-4">
                             <Image src={socialWeb} alt="ReactIcaon"/>
                         </div>
                         <span className="h-50 block rounded-md bg-white px-5 py-3 font-bold text-black" style={{height:"280px"}}>
@@ -28,7 +28,7 @@ export default function Projects() {
                     </div>
                     <div className="animate-border inline-block rounded-md bg-white bg-gradient-to-r from-red-500 via-purple-500 to-blue-500 bg-[length:400%_400%] p-1 w-64 flex flex-col items-center">
                         <h2>Post Website</h2>
-                        <div className="h-50 w-50">
+                        <div className="h-50 w-50 mb-4">
                             <Image src={socialWeb} alt="ReactIcaon"/>
                         </div>
                         <span className="block rounded-md bg-white px-5 py-3 font-bold text-black" style={{height:"280px"}}>More Projects coming soon...</span>
