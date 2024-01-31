@@ -23,7 +23,7 @@ export default function Projects() {
                             This project is a mock social app that allows users to view creator posts and also create their own. Users can navigate different pages to view profiles and use filters to display posts in a variety of ways.
                             <br/>
                             <br/>
-                            <Link href={"google.com"}><b>Link</b></Link>
+                            <Link href={"https://socialworldapp.vercel.app/"}><b>Link</b></Link>
                         </span>
                     </div>
                     <div className="animate-border inline-block rounded-md bg-white bg-gradient-to-r from-red-500 via-purple-500 to-blue-500 bg-[length:400%_400%] p-1 w-64 flex flex-col items-center">
