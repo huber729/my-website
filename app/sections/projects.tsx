@@ -1,4 +1,5 @@
 import socialWeb from "@/public/images/Screenshot 2024-01-31 171934.png"
+import reactIcon from "@/public/images/react.png"
 import Image from "next/image"
 import MotionDiv from "../components/motion-div"
 import Link from "next/link"
@@ -27,9 +28,9 @@ export default function Projects() {
                         </span>
                     </div>
                     <div className="animate-border inline-block rounded-md bg-white bg-gradient-to-r from-red-500 via-purple-500 to-blue-500 bg-[length:400%_400%] p-1 w-64 flex flex-col items-center">
-                        <h2>Post Website</h2>
+                        <h2>Project 2</h2>
                         <div className="h-50 w-50 mb-4 rounded-md">
-                            <Image src={socialWeb} alt="ReactIcaon"/>
+                            <Image src={reactIcon} alt="ReactIcaon"/>
                         </div>
                         <span className="block rounded-md bg-white px-5 py-3 font-bold text-black" style={{height:"280px"}}>More Projects coming soon...</span>
                     </div>
