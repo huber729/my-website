@@ -21,7 +21,7 @@ export default function About() {
           </MotionDiv>
           <MotionDiv delayOffset={1.2}>
             <p>
-              Outside of work and programming, I have passions that revolve around weightlifting and marathon traing. Everyday I try to get in some form of exercise and I enjoy going on a daily run around the beautiful city of Indianapolis!
+              Outside of work and programming, I have passions that revolve around weightlifting and marathon training. Everyday I try to get in some form of exercise and I enjoy going on a daily run around the beautiful city of Indianapolis!
             </p>
           </MotionDiv>
         </article>
