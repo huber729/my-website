@@ -17,7 +17,7 @@ export default function About() {
           </MotionDiv>
           <MotionDiv delayOffset={1.1}>
             <p>
-              When I am not teaching myself, I work a full-time job at a bank. I am on a journey to transition into a full-time development role, aiming to further refine my skills and contribute meaningfully to the tech world.</p>
+              When I am not teaching myself, I work a full-time job at a bank. I am open to taking on part-time web development projects, aiming to further refine my skills and contribute meaningfully to the tech world.</p>
           </MotionDiv>
           <MotionDiv delayOffset={1.2}>
             <p>
